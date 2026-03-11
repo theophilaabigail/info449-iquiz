@@ -11,6 +11,9 @@
 		A1000002000000000000001 /* Quiz.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000002000000000000001 /* Quiz.swift */; };
 		A1000003000000000000001 /* QuizViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000003000000000000001 /* QuizViewController.swift */; };
 		A1000004000000000000001 /* QuizTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000004000000000000001 /* QuizTableViewCell.swift */; };
+		A1000005000000000000001 /* QuestionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000005000000000000001 /* QuestionViewController.swift */; };
+		A1000006000000000000001 /* AnswerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000006000000000000001 /* AnswerViewController.swift */; };
+		A1000007000000000000001 /* FinishedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000007000000000000001 /* FinishedViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,7 +22,10 @@
 		A2000002000000000000001 /* Quiz.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Quiz.swift; sourceTree = "<group>"; };
 		A2000003000000000000001 /* QuizViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuizViewController.swift; sourceTree = "<group>"; };
 		A2000004000000000000001 /* QuizTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuizTableViewCell.swift; sourceTree = "<group>"; };
-		A2000005000000000000001 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A2000005000000000000001 /* QuestionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionViewController.swift; sourceTree = "<group>"; };
+		A2000006000000000000001 /* AnswerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnswerViewController.swift; sourceTree = "<group>"; };
+		A2000007000000000000001 /* FinishedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FinishedViewController.swift; sourceTree = "<group>"; };
+		A2000008000000000000001 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -48,7 +54,10 @@
 				A2000002000000000000001 /* Quiz.swift */,
 				A2000003000000000000001 /* QuizViewController.swift */,
 				A2000004000000000000001 /* QuizTableViewCell.swift */,
-				A2000005000000000000001 /* Info.plist */,
+				A2000005000000000000001 /* QuestionViewController.swift */,
+				A2000006000000000000001 /* AnswerViewController.swift */,
+				A2000007000000000000001 /* FinishedViewController.swift */,
+				A2000008000000000000001 /* Info.plist */,
 			);
 			path = iQuiz;
 			sourceTree = "<group>";
@@ -133,6 +142,9 @@
 				A1000002000000000000001 /* Quiz.swift in Sources */,
 				A1000003000000000000001 /* QuizViewController.swift in Sources */,
 				A1000004000000000000001 /* QuizTableViewCell.swift in Sources */,
+				A1000005000000000000001 /* QuestionViewController.swift in Sources */,
+				A1000006000000000000001 /* AnswerViewController.swift in Sources */,
+				A1000007000000000000001 /* FinishedViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
